@@ -47,9 +47,16 @@ var a = b = 5;
 > 10. 写一个url格式验证的正则
 >> 1. / (https | http)    :      \/ \/   www   \.    .+          \.     .+ /
 >> 2. https或者http  普通冒号  /   /   www   .   非换行字符    .   非换行字符
+
 ### 编程
 > 1. 实现全选、 反选 点击弹出选择内容
 > 2. 写出至少两种数组去重的函数
-> 3. 使用js创建10个li  没给个li添加点击事件 获取
-> 4. 写一个姓名测缘分的案例 使用https://www.showapi.com/api/lookPoint/1314 把测试结果展示在界面上
+> 3. 使用js创建10个li  没给个li添加点击事件 获取li上面的内容
+> 4. 写一个QQ号测吉凶的案例 使用https://www.showapi.com/api/lookPoint/863 把测试结果展示在界面上
 > 5. 写一个找不同的小游戏 点击显示图案 如果有两个相同 则消除 直到全部消除 提示成功
+
+### 学习的博客地址
+> 1. http://blog.csdn.net/miss_wangdapao
+2. http://blog.sina.com.cn/u/1697720250
+3. http://ws199412sw.blog.163.com/blog/#m=0
+4.
